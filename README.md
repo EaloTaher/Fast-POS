@@ -111,4 +111,8 @@ Actively developed as a portfolio and real-world business management project.
 
 ## Author
 
-**Ealam Taher**
+Ealam Dhahir Taher
+
+GitHub: https://github.com/EaloTaher
+LinkedIn: https://www.linkedin.com/in/ealam-taher
+Email: ealamtaher4@gmail.com
